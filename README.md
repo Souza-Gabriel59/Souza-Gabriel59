@@ -13,7 +13,7 @@
 
 - 💬 Pergunte-me sobre **HTML5, CSS3 e Javascript**
 
-- 📫 Como me contatar **00001141583185sp@al.educacao.sp.gov.br**
+- 📫 Como me contatar **bacchio528@gmail.com**
 
 - 📄 Saiba das minhas experiências [https://github.com/Souza-Gabriel59](https://github.com/Souza-Gabriel59)
 
